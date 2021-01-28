@@ -52,5 +52,15 @@
       "id": 2,
       "nome": "Refrigerantes"
     }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Marcley"
+    },
+    {
+      "id": 2,
+      "nome": "Andrea"
+    }
   ]
 }
