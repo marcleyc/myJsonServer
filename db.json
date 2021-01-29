@@ -62,5 +62,5 @@
     { "id": 2, "idc":1, "nome": "Andrea"},
     { "id": 3, "idc":1, "nome": "Enzo"},
     { "id": 2, "idc":2, "nome": "Antonio"}
-  ],
+  ]
 }
