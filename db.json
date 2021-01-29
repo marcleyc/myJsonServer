@@ -53,14 +53,14 @@
       "nome": "Refrigerantes"
     }
   ],
+  "contatos": [
+    { "idc":1, "nome": "Marcley"},
+    { "idc":2, "nome": "Antonio"}
+  ],
   "clientes": [
-    {
-      "id": 1,
-      "nome": "Marcley"
-    },
-    {
-      "id": 2,
-      "nome": "Andrea"
-    }
-  ]
+    { "id": 1, "idc":1, "nome": "Marcley"},
+    { "id": 2, "idc":1, "nome": "Andrea"},
+    { "id": 3, "idc":1, "nome": "Enzo"},
+    { "id": 2, "idc":2, "nome": "Antonio"}
+  ],
 }
