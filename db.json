@@ -53,6 +53,10 @@
       "nome": "Refrigerantes"
     }
   ],
+  "php": [
+    { "id":1, "descripcion": "node", "precio":10, "stok":10 },
+    { "id":2, "descripcion": "django", "precio":5, "stok":5 }
+  ],
   "contatos": [
     { "idc":1, "nome": "Marcley"},
     { "idc":2, "nome": "Antonio"}
